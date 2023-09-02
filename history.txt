@@ -21,3 +21,34 @@
    21  git
    22  history
    23  history > history.txt
+   24  git > git_command.txt
+   25  git init
+   26  ll
+   27  ls -la
+   28  git status
+   29  git add git_command.txt
+   30  git status
+   31  git
+   32  git commit
+   33  git status
+   34  git commit --help
+   35  git commit -m "My first commit"
+   36  git status
+   37  git log
+   38  [200~
+   39  git remote add origin https://github.com/GXRicO/my_first_repository.git
+   40  git remote
+   41  git push
+   42  git push origin master
+   43  git status
+   44  git add history.txt 
+   45  git status
+   46  git commit -m "Added new file history.txt" 
+   47  git status
+   48  git push origin master
+   49  history > history.txt
+   50  git status
+   51  git restore
+   52  git restore history.txt
+   53  git status
+   54  history > history.txt
